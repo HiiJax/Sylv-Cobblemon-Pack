@@ -1,0 +1,16 @@
+name = "Sylv's Cobblemon Pack"
+author = "CyanSylv"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "80e890305f0546fad9be767deb60090604e1f2c430515215b05718437e05b149"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

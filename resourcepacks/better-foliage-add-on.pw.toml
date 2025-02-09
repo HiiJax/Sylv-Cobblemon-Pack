@@ -1,0 +1,13 @@
+name = "Better Foliage Add-on"
+filename = "Better Foliage §lAdd-On v1.0(mc-1.21).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJd2FHNx/versions/y3vasWpG/Better%20Foliage%20%C2%A7lAdd-On%20v1.0%28mc-1.21%29.zip"
+hash-format = "sha512"
+hash = "03ed8e4a180612b078f120a6366bb28a390c2538734166805b5341a7adf5483f6c515ebece18801c858f84fdeb487a96e1942cca85935f99c5bf11a4a82f3416"
+
+[update]
+[update.modrinth]
+mod-id = "dJd2FHNx"
+version = "y3vasWpG"

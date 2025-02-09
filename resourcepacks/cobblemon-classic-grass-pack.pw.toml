@@ -1,0 +1,13 @@
+name = "Cobblemon Classic Grass Pack"
+filename = "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vtFYGarZ/versions/RAsI5dGE/Cobblemon%20Classic%20Grass%20Pack%20v1.0%20MC1.21.1.zip"
+hash-format = "sha512"
+hash = "7de9c739add505a7ba177d787f8ebb30546cc4f61245b86982ebf8d7e6dfbae6a7906d44d8a23e1a9d587fba7879c5b1a9039f2353236b7a45eb398f71ac2118"
+
+[update]
+[update.modrinth]
+mod-id = "vtFYGarZ"
+version = "RAsI5dGE"

@@ -1,0 +1,13 @@
+name = "Cobblemon Alphas"
+filename = "Cobblemon Alphas Datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3dnjbPgt/versions/4O88kVIr/Cobblemon%20Alphas%20Datapack.zip"
+hash-format = "sha512"
+hash = "b174f736054607bf7d0de26783fe6c2a5049babc974b22995c4ac2d7d9dc6ff88f399761486bb656816c370c80ac4225f96c436285b7e8c9b3a102e35e079d36"
+
+[update]
+[update.modrinth]
+mod-id = "3dnjbPgt"
+version = "4O88kVIr"
